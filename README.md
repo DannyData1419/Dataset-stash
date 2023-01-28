@@ -1,2 +1,2 @@
-# dataset_stash
-Datset compilation from various sources
+# Dataset stash
+Dataset compilation from various sources
