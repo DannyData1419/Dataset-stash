@@ -1,4 +1,4 @@
-# Dataset stash
+# Datasets
 Dataset compilation from various sources
 * **auto.csv** from https://app.datacamp.com/
 
